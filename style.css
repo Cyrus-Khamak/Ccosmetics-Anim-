@@ -1,0 +1,16 @@
+body{
+  margin:0;
+}
+.red{
+  background-color:rgb(216,217,225);
+  display:flex;
+  justify-content:center;
+  box-shadow: inset -12px -200px 45px -112px rgba(255,255,255,1);
+  padding-bottom: 7.5vw;
+}
+
+.beYouTy{
+  margin-top: 5vw;
+  display:flex;
+  justify-content:center;
+}
